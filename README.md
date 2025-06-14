@@ -1,3 +1,5 @@
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=manbin.
+
 <picture decoding="async" loading="lazy">
   <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=manbin&theme=rainbow">
   <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=manbin&screen_effect=true&theme=road_trip">
@@ -14,4 +16,4 @@
 
 [![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=manbin)](https://github.com/miwumiwumilumilelu)
 
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=manbin.
+
