@@ -6,6 +6,6 @@
 
 </div>
 
-![头像][(image/头像.jpg)](https://avatars.githubusercontent.com/u/167613270?v=4&size=64)
+![头像](https://avatars.githubusercontent.com/u/167613270?v=4&size=64)
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=manbin.
