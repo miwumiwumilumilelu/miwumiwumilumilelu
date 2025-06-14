@@ -6,6 +6,6 @@
 
 </div>
 
-![头像](https://avatars.githubusercontent.com/u/167613270?v=4&size=64)
+[![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=manbin)](https://github.com/miwumiwumilumilelu)
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=manbin.
